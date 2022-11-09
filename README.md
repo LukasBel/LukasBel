@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LukasBel
-- 👀 I’m interested in ... C++, Python, Backend work
-- 🌱 I’m currently learning ... Time Complexities
-- 💞️ I’m looking to collaborate on ... Nothing as of now
+- 👀 I’m interested in ... Python, C++, SQL, HTML/CSS
+- 🌱 I’m currently learning ... Algorithm Analysis
+- 💞️ I’m looking to collaborate on ... Back-end Work
 - 📫 How to reach me ... lukasbel711@gmail.com
 
 <!---
