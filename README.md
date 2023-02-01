@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LukasBel
-- 👀 I’m interested in ... Python, C++, SQL, HTML/CSS
-- 🌱 I’m currently learning ... Algorithm Analysis
-- 💞️ I’m looking to collaborate on ... Back-end Work
-- 📫 How to reach me ... lukasbel711@gmail.com
+Hey, I'm Lukas! My Primary interest is Back-End Development.
+I am well versed in Python, C++, C, and MySQL. However I also 
+have experience with Java, Racket, Plait, MATLAB, LinGO, and
+HTML/CSS.
+
 
 <!---
 LukasBel/LukasBel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
