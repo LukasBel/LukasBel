@@ -1,7 +1,4 @@
-Hey, I'm Lukas! My Primary interest is Back-End Development.
-I am well versed in Python, C++, C, and MySQL. However I also 
-have experience with Java, Racket, Plait, MATLAB, LinGO, and
-HTML/CSS.
+i code
 
 
 <!---
