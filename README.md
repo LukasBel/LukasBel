@@ -7,9 +7,9 @@ I'm an ambitious backend developer passionate about crafting clean and efficient
 ## Skills
 
 - **Languages:** Go, C#, C++, C, Java, JavaScript, Python
-- **Frameworks:** Fiber, Echo, Gin, React
+- **Frameworks:** Fiber, Echo, Gin, React, Vue.js
 - **Databases:** PostgreSQL, MongoDB, MySQL
-- **Tools & Technologies:** Docker, Kubernetes, Git
+- **Tools & Technologies:** Docker, Kubernetes, Git, Postman, AWS, Azure
 
 ## Get in Touch
 
