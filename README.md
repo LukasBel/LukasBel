@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an ambitious backend developer passionate about crafting clean and efficient code to build robust applications. My journey in software development revolves around exploring the intricacies of programming and leveraging its power to create scalable solutions.
+I am an ambitious software engineer passionate about crafting clean and efficient code to build robust applications! My journey in software development revolves around exploring the intricacies of programming and leveraging its power to create scalable solutions.
 
 ## Skills
 
