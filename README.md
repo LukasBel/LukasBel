@@ -42,14 +42,3 @@ If you're interested in connecting or discussing potential opportunities, feel f
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure">
 </div>
-
-## 📫 Get in Touch
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lukas-belashov-0b838b177/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100">
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="100">
-  </a>
-</div>
